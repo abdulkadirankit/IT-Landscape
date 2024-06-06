@@ -32,5 +32,5 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           context: .
-          tags: ghcr.io/<kullanıcı-adınız>/it-landscape:latest
+          tags: ghcr.io/abdulkadirankit/it-landscape:latest/it-landscape:latest
           push: true
